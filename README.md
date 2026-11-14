@@ -1,37 +1,20 @@
-# Hi, I'm Ria 👋
+## Hey 👋 I'm Ria Sethi
 
-**Security × AI. I build tools that keep people and companies safe online.**
+CS + Data Science @ UC Berkeley. I build at the intersection of security and AI.<br>
+🛡️ Founder of [Cyber for Youth](https://cyberforyouth.org)
 
-CS + Data Science @ UC Berkeley
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,html,css,nodejs,flask,bootstrap,git,linux,kali&perline=13" />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/ria-sethi1) · [Email](mailto:riasethi@berkeley.edu) · [Cyber for Youth](https://cyberforyouth.org)
+<p>
+  <a href="https://www.linkedin.com/in/ria-sethi1"><img src="https://skillicons.dev/icons?i=linkedin" height="36" /></a>
+  <a href="https://github.com/riaseth1"><img src="https://skillicons.dev/icons?i=github" height="36" /></a>
+  <a href="mailto:riasethi@berkeley.edu"><img src="https://skillicons.dev/icons?i=gmail" height="36" /></a>
+</p>
 
----
+### Featured Projects
 
-Most people who get hacked or scammed aren't careless. Nobody ever showed them what an attack looks like. I started Cyber for Youth to teach kids exactly that, and somewhere along the way I got hooked on the other side of it too: how attacks actually work, and how to build things that stop them. These days that mostly means AI agents.
+**[Lifeboat](https://github.com/riaseth1/Lifeboat)**: an AI agent that triages and responds to security incidents for startups without a security team.
 
-## Currently working on
-
-- **Lifeboat**: an AI agent that triages and responds to security incidents, built for startups that don't have a security team yet
-- A technical project with **NVIDIA**
-- **Cyber for Youth**: the nonprofit I founded, teaching students about scams, cyberbullying, and sextortion
-
-## Experience
-
-| | |
-|---|---|
-| **NVIDIA** | Technical project (current) |
-| **BILL** | Cybersecurity Intern |
-| **Cyber Unbound** | Cybersecurity Intern, built Capture-the-Flag challenges and training modules |
-| **Cyber for Youth** | Founder |
-
-## Stack
-
-| | |
-|---|---|
-| Languages | Python · TypeScript · JavaScript · Java · C++ · SQL · HTML/CSS |
-| Frameworks & Tools | Node.js · Flask · REST APIs · Bootstrap · Git · Kuzu |
-| AI | LLM agents (tool calling, ReAct) · Claude · OpenAI · Ollama · Agent tracing |
-| Security | Incident response · Digital forensics · Ethical hacking · CTF |
-
-Always down to build something in security or AI. Reach out.
+**[CyberBoot](https://github.com/riaseth1/CyberBoot)**: an interactive cybersecurity bootcamp with a phishing inbox sim, password checker, and quiz. [Try it live](https://riaseth1.github.io/CyberBoot/)
