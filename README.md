@@ -12,21 +12,9 @@
 <a href="mailto:riasethi@berkeley.edu">email</a> &nbsp;·&nbsp;
 <a href="https://cyberforyouth.org">cyberforyouth.org</a>
 
+<br><br>
+
+<b><a href="https://github.com/riaseth1/Lifeboat">lifeboat</a></b> — an ai agent that responds to security incidents<br>
+<b><a href="https://github.com/riaseth1/CyberBoot">cyberboot</a></b> — an interactive cybersecurity bootcamp · <a href="https://riaseth1.github.io/CyberBoot/">live</a>
+
 </div>
-
-<br>
-
-```console
-$ whoami
-ria sethi · cs + data science @ uc berkeley
-
-$ cat now.txt
-> building lifeboat, an ai agent that responds to security incidents
-> working on a technical project with nvidia
-> running cyber for youth, online safety education for students
-
-$ ls projects/
-lifeboat/   cyberboot/
-```
-
-**→ [lifeboat](https://github.com/riaseth1/Lifeboat)** &nbsp;·&nbsp; **[cyberboot](https://github.com/riaseth1/CyberBoot)** ([live](https://riaseth1.github.io/CyberBoot/))
