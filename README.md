@@ -1,6 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:3B82F6&height=200&section=header&text=Hey,%20I'm%20Ria&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Security%20%C3%97%20AI%20%C2%B7%20UC%20Berkeley&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&color=F97316&center=true&vCenter=true&width=600&height=50&duration=2800&pause=900&lines=hey,+i'm+ria;security+%C3%97+ai+@+uc+berkeley;founder+@+cyber+for+youth;building+things+that+stop+attacks" />
+**Founder of [Cyber for Youth](https://cyberforyouth.org)** · CS + Data Science @ UC Berkeley<br>
+Building things that stop attacks before they happen.
 
 <br>
 
@@ -8,13 +11,15 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/ria-sethi1">linkedin</a> &nbsp;·&nbsp;
-<a href="mailto:riasethi@berkeley.edu">email</a> &nbsp;·&nbsp;
+<b><a href="https://github.com/riaseth1/Lifeboat">Lifeboat</a></b> · an AI agent that responds to security incidents<br>
+<b><a href="https://github.com/riaseth1/CyberBoot">CyberBoot</a></b> · an interactive cybersecurity bootcamp (<a href="https://riaseth1.github.io/CyberBoot/">live</a>)
+
+<br>
+
+<a href="https://www.linkedin.com/in/ria-sethi1">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:riasethi@berkeley.edu">Email</a> &nbsp;·&nbsp;
 <a href="https://cyberforyouth.org">cyberforyouth.org</a>
 
-<br><br>
-
-<b><a href="https://github.com/riaseth1/Lifeboat">lifeboat</a></b> — an ai agent that responds to security incidents<br>
-<b><a href="https://github.com/riaseth1/CyberBoot">cyberboot</a></b> — an interactive cybersecurity bootcamp · <a href="https://riaseth1.github.io/CyberBoot/">live</a>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:3B82F6&height=100&section=footer" width="100%" />
