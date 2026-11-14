@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.3" fill="#30363d"/>
+    </pattern>
+    <radialGradient id="glowO" cx="0.15" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#F97316" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.85" cy="0.8" r="0.6">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="brand" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#F97316"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0.55"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="320" rx="18"/></clipPath>
+    <style>
+      .name { font: 800 76px Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; letter-spacing: -1.5px; }
+      .sub  { font: 500 24px Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e; }
+      .tag  { font: 600 15px 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace; fill: #e6edf3; }
+      .fade { animation: in 0.9s ease-out both; }
+      .d2 { animation-delay: 0.25s; } .d3 { animation-delay: 0.5s; }
+      @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+      .spin { transform-origin: 980px 160px; animation: spin 4s linear infinite; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      .blip { animation: blip 4s ease-out infinite; }
+      .b2 { animation-delay: 1.3s; } .b3 { animation-delay: 2.6s; }
+      @keyframes blip { 0%,100% { opacity: 0; } 10% { opacity: 1; } 60% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="#0d1117"/>
+    <rect width="1200" height="320" fill="url(#dots)"/>
+    <rect width="1200" height="320" fill="url(#glowO)"/>
+    <rect width="1200" height="320" fill="url(#glowB)"/>
+
+    <!-- radar -->
+    <g fill="none" stroke="#30363d" stroke-width="1.5">
+      <circle cx="980" cy="160" r="40"/>
+      <circle cx="980" cy="160" r="80"/>
+      <circle cx="980" cy="160" r="120"/>
+      <line x1="860" y1="160" x2="1100" y2="160"/>
+      <line x1="980" y1="40" x2="980" y2="280"/>
+    </g>
+    <g class="spin">
+      <path d="M980 160 L1100 160 A120 120 0 0 0 1064.85 75.15 Z" fill="url(#sweep)"/>
+      <line x1="980" y1="160" x2="1100" y2="160" stroke="#3B82F6" stroke-width="2"/>
+    </g>
+    <circle class="blip" cx="1035" cy="110" r="5" fill="#F97316"/>
+    <circle class="blip b2" cx="925" cy="215" r="5" fill="#F97316"/>
+    <circle class="blip b3" cx="1050" cy="215" r="4" fill="#F97316"/>
+    <circle cx="980" cy="160" r="4" fill="#3B82F6"/>
+
+    <!-- text -->
+    <g class="fade">
+      <text x="80" y="140" class="name">Ria Sethi</text>
+      <rect x="82" y="160" width="130" height="5" rx="2.5" fill="url(#brand)"/>
+    </g>
+    <text x="80" y="208" class="sub fade d2">Security × AI  ·  CS + Data Science @ UC Berkeley</text>
+    <g class="fade d3">
+      <rect x="80" y="232" width="268" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
+      <circle cx="100" cy="249" r="5" fill="#F97316"/>
+      <text x="114" y="254" class="tag">founder @ cyber for youth</text>
+    </g>
+  </g>
+</svg>

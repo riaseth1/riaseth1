@@ -1,9 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:3B82F6&height=200&section=header&text=Hey,%20I'm%20Ria&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Security%20%C3%97%20AI%20%C2%B7%20UC%20Berkeley&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="banner.svg" width="100%" />
 
 <div align="center">
-
-**Founder of [Cyber for Youth](https://cyberforyouth.org)** · CS + Data Science @ UC Berkeley<br>
-Building things that stop attacks before they happen.
 
 <br>
 
@@ -21,5 +18,3 @@ Building things that stop attacks before they happen.
 <a href="https://cyberforyouth.org">cyberforyouth.org</a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:3B82F6&height=100&section=footer" width="100%" />
